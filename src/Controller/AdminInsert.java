@@ -66,10 +66,10 @@ public class AdminInsert {
 		    	admin_user.price_type = "Per Month";
 			}
 		    else if(admin_user.price_type.equals("3")) {
-		    	admin_user.price_type = "Per quater";
+		    	admin_user.price_type = "Per quarter";
 			}
 		    else if(admin_user.price_type.equals("4")) {
-		    	admin_user.price_type = "Semi Quater";
+		    	admin_user.price_type = "Semi Quarter";
 			}
 		    else if(admin_user.price_type.equals("5")) {
 		    	admin_user.price_type = "Per year";
